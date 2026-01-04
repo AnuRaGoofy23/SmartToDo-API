@@ -1,0 +1,7 @@
+When you open this folder and want to start up your application simply run
+
+uv run .\main.py
+
+in the cmd
+
+do the changes and add-ons in the app.py and leave the main.py as is.
